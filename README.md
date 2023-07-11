@@ -20,7 +20,7 @@ The app will display an **Uncaught Error**, reading **"Maximum call stack size e
 
 - Changing line 4 to ``const j = 3504``, or any smaller number, and then performing two or more fast reloads will not cause an error. The app will, however, throw the same error the first fast reload after reducing ``j``.
 
-- Duplicating line 17 such that the return value of ``Main`` appears as follows does not produce an error, as long as ``j`` is less than 3504:
+- Duplicating line 17 such that the return value of ``Main`` appears as follows does not produce an error, as long as ``j`` is 3504 or less:
 ```jsx
 <View>
     <ScrollView>
