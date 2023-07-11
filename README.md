@@ -1,3 +1,4 @@
+This repository demonstrates a bug in Expo Go with ``<ScrollView>`` on fast reloads.
 # Setting up the app
 Either...
 
