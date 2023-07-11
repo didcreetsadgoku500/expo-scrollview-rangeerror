@@ -1,5 +1,5 @@
 # Setting up the app
-There are two ways to set up the app. Either...
+Either...
 
 1. Clone this repository and run ``npm install``,
 or
