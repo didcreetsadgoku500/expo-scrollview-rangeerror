@@ -5,7 +5,7 @@ Either...
 or
 2. Create a new Expo Go project with ``npx create-expo-app`` and replace the contents of the default ``App.js`` with the ``App.js`` provided in this repo.
 
-# Steps to reproduce the bug
+# Steps to reproduce the error
 Ensure that ``j = 3412`` on line 4 of ``App.js``.
 
 Run ``npm start`` in a terminal to start the project. On an Android device, scan the QR code with the Expo Go app.
